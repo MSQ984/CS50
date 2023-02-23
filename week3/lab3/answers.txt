@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: second lowest running time and because bubble sort is in the middle of merge sort and selection sort in time complexity sort1 is bubble sort1.
+
+sort2 uses: merge sort
+
+How do you know?: the most efficient sorting method with the lowest time complexity of n log n it has the lowest running time out of all and hence sort2 is merge sort.
+
+sort3 uses: selection sort
+
+How do you know?: the least efficient sorting method with the highest time complexity of n^2 it has the highest running time out of all and hence sort3 is selection sort.
